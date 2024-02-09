@@ -21,4 +21,5 @@ I'm a sophomore at Tufts University where I study computer science and mathemati
 
 - 🔭 I’m currently working on [**vfl**](https://github.com/thevedantmodi/flight-extension) and [**Emerald Necklace Conservancy**](https://github.com/JumboCode/emerald-necklace-conservancy)
 - For my previous work in low-level programming, please visit my work from [COMP40](https://github.com/thevedantmodi/COMP40/) at Tufts University.
+- For my current notes in my theory courses, please visit my notes page from [COMP160](https://github.com/thevedantmodi/COMP40/) at Tufts University.
 - 📫 How to reach me: [**vedantmodi.com**](https://www.vedantmodi.com), or vedant[at]vedantmodi[dot]com
