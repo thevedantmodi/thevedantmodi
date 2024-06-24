@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Vedant Modi, an independent developer who loves creating large-scale, open source projects. As I develop my programs, I adopt new problem-solving approaches and new technologies. Right now, I'm focusing on work relating to low-level programming, performance tuning, and cloud computing. With these tools, I hope to self-develop an open-source, full-stack web app.
 
-I'm a sophomore at Tufts University where I study computer science and mathematics. I'm also an avid explorer of the world, spending my free time visting novel countries. During my travels, I love to document the unconventional locales I visit and learn to operate on a short budget.
+I'm a junior at Tufts University where I study computer science and mathematics. I'm also an avid explorer of the world, spending my free time visting novel countries. During my travels, I love to document the unconventional locales I visit and learn to operate on a short budget.
 
 - 🔭 I’m currently working on [**vfl**](https://github.com/thevedantmodi/flight-extension) and [**Emerald Necklace Conservancy**](https://github.com/JumboCode/emerald-necklace-conservancy)
 - For my previous work in low-level programming, please visit my work from [COMP40](https://github.com/thevedantmodi/COMP40/) at Tufts University.
