@@ -19,7 +19,7 @@ I am Vedant Modi, an independent developer who loves creating large-scale, open 
 
 I'm a junior at Tufts University where I study computer science and mathematics. I'm also an avid explorer of the world, spending my free time visting novel countries. During my travels, I love to document the unconventional locales I visit and learn to operate on a short budget.
 
-- 🔭 I’m currently working on [**vfl**](https://github.com/thevedantmodi/flight-extension) and [**Emerald Necklace Conservancy**](https://github.com/JumboCode/emerald-necklace-conservancy)
+- 🔭 I’m currently working on [**closed-flights**](https://github.com/thevedantmodi/closed-flights), a new full-stack web application that's going to change how you look at flying.
 - For my previous work in low-level programming, please visit my work from [COMP40](https://github.com/thevedantmodi/COMP40/) at Tufts University.
 - For my current notes in my theory courses, please visit my notes page from [COMP160](https://github.com/thevedantmodi/COMP40/) at Tufts University.
 - 📫 How to reach me: [**vedantmodi.com**](https://www.vedantmodi.com), or vedant[at]vedantmodi[dot]com
