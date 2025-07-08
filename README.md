@@ -19,7 +19,7 @@ I am Vedant Modi, an independent developer who loves creating large-scale, open 
 
 I'm a rising senior at Tufts University where I study computer science and mathematics. I'm also an avid explorer of the world, where I love to spending my time visiting awesome destinations. During these trips, I enjoy documenting the unique experiences through photos and videos.
 
-In Summer 2025, I am a Software Engineering Intern at J.P. Morgan Chase & Co., where I'll work in Markets Technology supporting Commercial and Investment Banking.
+In Summer 2025, I am a Software Engineering Intern at J.P. Morgan Chase & Co., developing market technologies that support the Commercial and Investment Banking line of business.
 
 - 🔭 I’m currently working on [**globetrotter**](https://github.com/thevedantmodi/globetrotter), a new full-stack web application that's going to change how you look at flying.
 - For my previous work in low-level programming, please visit my work from [COMP40](https://github.com/thevedantmodi/COMP40/) at Tufts University.
