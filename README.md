@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Vedant Modi, an independent developer who loves creating large-scale, open source projects. As I develop my programs, I adopt new problem-solving approaches and new technologies. Right now, I'm focusing on work relating to low-level programming, performance tuning, and cloud computing. With these tools, I am self-developing an open-source, full-stack web app.
+I am Vedant Modi, an end-to-end developer, energetic team player, and passionate builder of large-scale, impactful products. As I build software, I adopt new problem-solving approaches and technologies. Right now, I’m focusing on building applications centered on distributed systems, machine learning, and low-level computing. With these skills, I build real-world, scalable solutions to complex problems.
 
-I'm a rising senior at Tufts University where I study computer science and mathematics. I'm also an avid explorer of the world, where I love to spending my time visiting awesome destinations. During these trips, I enjoy documenting the unique experiences through photos and videos.
+I’m a rising senior at Tufts University, where I study computer science and mathematics. I enjoy traveling to new places and love documenting those experiences through [photos and videos](https://vedantmodi.com/places).
 
 In Summer 2025, I am a Software Engineering Intern at J.P. Morgan Chase & Co., developing market technologies that support the Commercial and Investment Banking line of business.
 
