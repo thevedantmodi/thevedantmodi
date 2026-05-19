@@ -9,8 +9,10 @@ build real-world, scalable solutions to complex problems.
 I'm an alumnus of Tufts University, where I studied computer science
 and mathematics. I enjoy traveling to new places and love documenting
 those experiences through [photos and videos](https://photos.vedantmodi.com/).
-
-I am a Software Engineer at J.P. Morgan Chase & Co. There, I develop the next-generation of investment banking.
+        
+In Summer 2025, I was a Software Engineering Intern at J.P. Morgan Chase
+& Co. There, I developed market technologies supporting the Commercial
+and Investment Banking line of business.
 
 - For my previous work in low-level programming, please visit my work from [COMP40](https://github.com/thevedantmodi/COMP40/) at Tufts University.
 - For my notes in my theory courses, please visit my notes page from [COMP160](https://github.com/thevedantmodi/COMP40/) at Tufts University.
