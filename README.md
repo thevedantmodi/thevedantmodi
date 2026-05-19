@@ -6,7 +6,7 @@ now, I'm focusing on building applications centered on distributed
 systems, machine learning, and low-level computing. With these skills, I
 build real-world, scalable solutions to complex problems.
 
-I'm an alumnus of Tufts University, where I studied computer science
+I'm a recent alumnus of Tufts University, where I studied computer science
 and mathematics. I enjoy traveling to new places and love documenting
 those experiences through [photos and videos](https://photos.vedantmodi.com/).
         
